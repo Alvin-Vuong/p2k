@@ -1,0 +1,42 @@
+TODO: FIND BETTER VOICE RECOGNITION SOFTWARE (A LEARNING)
+TODO: Shut up -> turn off voice recognition
+TODO: Youtube search
+TODO: Generalized library (file system)
+
+-------------------------------------------------------------------
+2/1/2015 5:00 PST
+
+Working Demo.
+Requires specifically named files with timestamp lengths.
+
+-------------------------------------------------------------------
+2/1/2015 00:38 PST
+
+Modified the code to accomodate the voice recognition code
+
+-------------------------------------------------------------------
+1/31/2015 23:43 PST
+
+Modified the song list so that voice input matches properly
+
+-------------------------------------------------------------------
+1/31/2015 23:29 PST
+
+Generalized the creation of batch files so only need on overall one
+
+-------------------------------------------------------------------
+1/31/2015 22:23 PST
+
+Made the playlist queueing code
+
+-------------------------------------------------------------------
+
+1/31/2015 20:37 PST
+
+First commit.
+Added README.
+Added UpdateLog.
+Added "playSong.py"
+Created folder "Songs" which holds 20 songs
+
+-------------------------------------------------------------------
