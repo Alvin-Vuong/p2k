@@ -2,7 +2,7 @@ A Part of:
 # ghai
 (general household artificial intelligence)
 
-## P2K is a voice-controlled music queueing interface.
+## P2K is a voice-controlled music queuing interface.
 
 Playlist2000 uses Windows Speech Recognition combined with the Vocola voice command language to implement an interface that creates a "jukebox-like" media player control system.  Behind the application is a Python programming interface to convert the queue-based verbal instructions to Windows batch scripts that then play songs in their specified order.
 
